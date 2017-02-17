@@ -1,0 +1,18 @@
+{
+  "name": "validate_email",
+  "version": "1.0.5",
+  "description": "Simple regex-based utility for validating common real-world email addresses.",
+  "main": "validate_email.min.js",
+  "scripts": {
+    "test": "mocha validate_email_test.min.js"
+  },
+  "dependencies": {
+    "mocha": "3.2.0"
+  },
+  "keywords": [
+    "validate",
+    "email",
+    "traceur"
+  ],
+  "author": "Grzegorz B (traceur)"
+}
