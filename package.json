@@ -1,6 +1,6 @@
 {
   "name": "validate_email",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "description": "Simple regex-based utility for validating common real-world email addresses.",
   "main": "validate_email.min.js",
   "scripts": {
