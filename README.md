@@ -2,6 +2,8 @@
 
 [![GitHub version](https://badge.fury.io/gh/TheTraceur%2Fvalidate_email.svg)](https://github.com/TheTraceur/validate_email)
 
+![Awesome](http://cdn.pspu.pl/badges/awesome.svg)
+
 © by [**traceur**](https://www.npmjs.com/~traceur)
 
 ## Installation
