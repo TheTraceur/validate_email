@@ -1,6 +1,6 @@
-[![npm version](https://badge.fury.io/js/validate_email.svg)](https://www.npmjs.com/package/validate_email) <-- npm
+[![npm version](https://badge.fury.io/js/validate_email.svg)](https://www.npmjs.com/package/validate_email)
 
-[![GitHub version](https://badge.fury.io/gh/TheTraceur%2Fvalidate_email.svg)](https://github.com/TheTraceur/validate_email) <-- GitHub
+[![GitHub version](https://badge.fury.io/gh/TheTraceur%2Fvalidate_email.svg)](https://github.com/TheTraceur/validate_email)
 
 © by [**traceur**](https://www.npmjs.com/~traceur)
 
