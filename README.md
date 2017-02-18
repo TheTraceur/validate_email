@@ -1,8 +1,6 @@
-[![npm version](https://badge.fury.io/js/validate_email.svg)](https://www.npmjs.com/package/validate_email)
+[![npm version](https://badge.fury.io/js/validate_email.svg)](https://www.npmjs.com/package/validate_email) <-- npm
 
-[![GitHub version](https://badge.fury.io/gh/TheTraceur%2Fvalidate_email.svg)](https://github.com/TheTraceur/validate_email)
-
-![Awesome](http://cdn.pspu.pl/badges/awesome.svg)
+[![GitHub version](https://badge.fury.io/gh/TheTraceur%2Fvalidate_email.svg)](https://github.com/TheTraceur/validate_email) <-- GitHub
 
 © by [**traceur**](https://www.npmjs.com/~traceur)
 
